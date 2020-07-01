@@ -13,8 +13,9 @@
 
 * And add this in your cfg:
 
- start scooter
- start esx_sumwan_scooter
+ ***start scooter
+ 
+ ***start esx_sumwan_scooter
 
 
 # Credit:
