@@ -1,5 +1,7 @@
 # esx_sumwan_scooter
+With this script you can drive electric scooters around the city for 10 SEK per minute.
 
+**OBS! If you find any bugs contact me on discord.
 
 # Requirements
 
